@@ -1,0 +1,13 @@
+{
+    "name": "abelesense/corepackage",
+    "description": "package",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Abelesense\\Corepackage\\": "src/"
+        }
+    }
+}
