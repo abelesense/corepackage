@@ -1,6 +1,7 @@
 <?php
 
-namespace Core;
+namespace Abelesense\Corepackage;
+
 
 class Request
 {

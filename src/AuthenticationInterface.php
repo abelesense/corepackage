@@ -1,9 +1,7 @@
 <?php
 
-namespace Core;
+namespace Abelesense\Corepackage;
 
-use Entity\User;
-use Repository\UserRepository;
 
 interface AuthenticationInterface
 {

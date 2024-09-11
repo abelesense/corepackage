@@ -1,8 +1,7 @@
 <?php
 
-namespace Core;
+namespace Abelesense\Corepackage;
 
-use Service\ErrorInterface;
 
 class LoggerService implements ErrorInterface
 {

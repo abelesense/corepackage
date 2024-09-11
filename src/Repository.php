@@ -1,6 +1,7 @@
 <?php
-namespace Core;
+namespace Abelesense\Corepackage;
 use PDO;
+
 
 class Repository
 {

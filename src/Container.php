@@ -1,16 +1,6 @@
 <?php
 
-namespace Core;
-
-use Controller\CartController;
-use Controller\OrderController;
-use Controller\ProductController;
-use Controller\UserController;
-use Controller\UserProductController;
-use Repository\OrderItemRepository;
-use Repository\OrderRepository;
-use Repository\ProductRepository;
-use Repository\UserProductRepository;
+namespace Abelesense\Corepackage;
 
 
 class Container

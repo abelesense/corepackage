@@ -1,19 +1,7 @@
 <?php
 
-namespace Core;
+namespace Abelesense\Corepackage;
 
-use Container;
-use Controller\OrderController;
-use Controller\UserController;
-use Controller\ProductController;
-use Controller\CartController;
-use Controller\UserProductController;
-use Repository\OrderItemRepository;
-use Repository\OrderRepository;
-use Repository\ProductRepository;
-use Repository\UserProductRepository;
-use Service\AuthenticationInterface;
-use Service\LoggerService;
 
 class App
 {

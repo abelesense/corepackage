@@ -1,7 +1,8 @@
 <?php
 
+namespace Abelesense\Corepackage;
 
-namespace Core;
+
 class Autoloader
 {
     public static function autoload()

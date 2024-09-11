@@ -1,10 +1,9 @@
 <?php
 
-namespace Core;
+namespace Abelesense\Corepackage;
 
-use Repository\ErrorLogRepository;
-use Service\ErrorInterface;
-use Throwable;
+
+use Abelesense\Corepackage\ErrorInterface;
 
 class TableLoggerService implements ErrorInterface
 {
